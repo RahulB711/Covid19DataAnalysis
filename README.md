@@ -8,7 +8,7 @@ Before evaluating the data, we must first clean it because the COVID 19 dataset 
 
 The tool we have used is Microsoft Power Query  and pandas(Python Library)
 
-2.Extract Meaningful Insight
+2.Extract Meaningful Insight: 
 Next Process to get Meaningful insight from cleaned dataset.
 
 Tool we used to get insight was MS PowerBi.
