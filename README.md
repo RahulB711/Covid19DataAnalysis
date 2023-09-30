@@ -80,8 +80,10 @@ In the months of May, June, and July of 2021, the maximum number of covid tests 
 
 ## Summary and Challanges Faced:
 
+### Learninig new tool
 i> Because the powerbi is a new tool for me, this project allows me to learn, practise, and experiment with various features of this tool. 
 
+### Understanding and extracting insight
 ii> Because the covid19 dataset was too large and consisted of three different tables, it was necessary to interpret the datasets and extract relevant knowledge.
 
 
