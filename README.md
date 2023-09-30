@@ -2,21 +2,8 @@
 # Covid 19 Data Analysis
 Data analysis on COVID-19 in India plays a vital role in understanding the dynamics of the pandemic, guiding public health responses, and monitoring the effectiveness of interventions to control the spread of the virus
 
-## Procedure
-1.Clean the dataset:
-Before evaluating the data, we must first clean it because the COVID 19 dataset contains a substantial number of noise values and undesirable data.
-
-The tool we have used is Microsoft Power Query  and pandas(Python Library)
-
-2.Extract Meaningful Insight: 
-Next Process to get Meaningful insight from cleaned dataset.
-
-Tool we used to get insight was MS PowerBi.
-
-
-
-
-
+## Problem Statement
+This project aims to understand covid 19 trends and provide key analysis in India using powerbi tool.
 
 
 ## Useful Insights
@@ -90,6 +77,13 @@ Looking at the topography, it is clear that the central and southern parts of In
 When comparing the years 2020 and 2021, the impact of covid -19 in 2021 has more than doubled in terms of total perished people and somewhat higher in confirmed cases.
 
 In the months of May, June, and July of 2021, the maximum number of covid tests was over 60 million per month.
+
+## Summary and Challanges Faced:
+
+i> Because the powerbi is a new tool for me, this project allows me to learn, practise, and experiment with various features of this tool. 
+
+ii> Because the covid19 dataset was too large and consisted of three different tables, it was necessary to interpret the datasets and extract relevant knowledge.
+
 
 
 
